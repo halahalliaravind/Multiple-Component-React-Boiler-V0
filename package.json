@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://halahalliaravind.github.io/React-Calaculator/",
+  "homepage": "https://github.com/halahalliaravind/Multiple-Component-React-Boiler-V0",
   "scripts": {
     "test": "jest",
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js --mode development --watch --open --hot",
